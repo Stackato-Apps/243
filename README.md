@@ -13,7 +13,7 @@ Get Andorid version from [Google Apps Store](https://play.google.com/store/apps/
 
 Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
 
-### Deploying on Stackato
+### Deploying on HPE Helion Stackato
 
 ```
 stackato push -n
