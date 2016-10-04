@@ -16,7 +16,7 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 ### Deploying on HPE Helion Stackato
 
 ```
-stackato push -n
+cf push
 ```
 
 ### Plans
